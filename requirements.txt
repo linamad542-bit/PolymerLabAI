@@ -1,0 +1,18 @@
+# PolymerLab AI - Core Dependencies
+# Python >= 3.11
+
+# Interactive Web Application Framework
+streamlit>=1.35.0
+
+# Numerical computing & Data Analysis
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Scientific & Interactive Plotting
+plotly>=5.20.0
+
+# Hardware Serial Communication (Arduino tensile load cell / extensometer integration)
+pyserial>=3.5
+
+# Automated Testing Framework
+pytest>=8.0.0
