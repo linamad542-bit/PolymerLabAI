@@ -1,0 +1,23 @@
+# PROVENANCE: Idealized synthetic dataset generated algorithmically for software verification and testing.
+# Emulates characteristic ASTM D638 brittle tensile behavior of PMMA (high stiffness, linear elastic, fracture at low strain).
+# Not acquired from certified physical laboratory test bench.
+Strain [-],Stress (MPa)
+0.0000,0.00
+0.0005,1.55
+0.0010,3.10
+0.0015,4.65
+0.0020,6.20
+0.0030,9.30
+0.0040,12.40
+0.0060,18.50
+0.0080,24.50
+0.0100,30.30
+0.0120,35.90
+0.0150,43.80
+0.0180,50.90
+0.0200,55.20
+0.0240,62.80
+0.0280,68.20
+0.0320,71.50
+0.0350,72.80
+0.0380,73.10
