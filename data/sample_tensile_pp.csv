@@ -1,0 +1,41 @@
+# PROVENANCE: Idealized synthetic dataset generated algorithmically for software verification and testing.
+# Emulates characteristic ASTM D638 Type I tensile behavior of Polypropylene (yield necking and cold drawing).
+# Not acquired from certified physical laboratory test bench.
+Strain [-],Stress (MPa)
+0.0000,0.00
+0.0005,0.67
+0.0010,1.35
+0.0015,2.02
+0.0020,2.69
+0.0030,4.01
+0.0040,5.32
+0.0060,7.88
+0.0080,10.35
+0.0100,12.72
+0.0150,18.20
+0.0200,22.80
+0.0300,28.50
+0.0400,31.70
+0.0500,33.40
+0.0600,34.20
+0.0700,34.60
+0.0800,34.70
+0.0900,34.50
+0.1000,33.80
+0.1200,31.50
+0.1500,27.20
+0.2000,24.50
+0.3000,23.80
+0.4000,23.60
+0.5000,23.50
+0.6000,23.70
+0.8000,24.20
+1.0000,25.00
+1.2000,26.10
+1.4000,27.40
+1.6000,28.80
+1.8000,30.30
+2.0000,31.90
+2.2000,33.60
+2.4000,35.40
+2.5000,36.50
